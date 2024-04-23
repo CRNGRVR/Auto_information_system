@@ -23,5 +23,10 @@ namespace Auto_information_system
         {
             InitializeComponent();
         }
+
+        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
