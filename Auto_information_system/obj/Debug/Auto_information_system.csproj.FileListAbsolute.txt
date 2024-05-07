@@ -50,3 +50,32 @@ C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Aut
 C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\ReportUI.g.cs
 C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainUI.baml
 C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\ReportUI.baml
+D:\дэ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.exe.config
+D:\дэ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.exe
+D:\дэ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.pdb
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.AssemblyReference.cache
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\add.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\edit.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainUI.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainWindow.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auth.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Registration.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\ReportUI.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\TicketsUI.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\App.g.cs
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system_MarkupCompile.cache
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system_MarkupCompile.lref
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\add.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\edit.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainUI.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainWindow.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auth.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Registration.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\ReportUI.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\TicketsUI.baml
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.g.resources
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.Properties.Resources.resources
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.GenerateResource.cache
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.CoreCompileInputs.cache
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.exe
+D:\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.pdb

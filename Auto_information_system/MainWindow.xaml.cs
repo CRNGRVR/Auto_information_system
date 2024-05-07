@@ -23,13 +23,14 @@ namespace Auto_information_system
         public MainWindow()
         {
             InitializeComponent();
+            gr1.Children.Clear();
+            MainUI m = new MainUI();
+            gr1.Children.Add(m);
         }
 
         private void TicketsUI_Loaded(object sender, RoutedEventArgs e)
         {
-            gr1.Children.Clear();
-            MainUI m = new MainUI();
-            gr1.Children.Add(m);
+         
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

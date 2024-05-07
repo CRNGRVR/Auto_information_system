@@ -8,9 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Name="gr2">
         <StackPanel Margin="0,0,657,0">
-            <Button Content="Главная" Height="57" Background="Transparent" Click="Button_Click_1"/>
-            <Button Content="Заявки" Height="57" Background="Transparent" Click="Button_Click"/>
-            <Button Content="Отчёты" Height="57" Background="Transparent" Click="Button_Click_2"/>
+            <Button Content="Главная" Height="57" Background="Transparent" Click="Button_Click_1" Name="gl"/>
+            <Button Content="Заявки" Height="57" Background="Transparent" Click="Button_Click" Name="za"/>
+            <Button Content="Отчёты" Height="57" Background="Transparent" Click="Button_Click_2" Name="ot"/>
             <Button Content="Не знаю" Height="57" Background="Transparent"/>
             <Button Content="Не придумал" Height="57" Background="Transparent"/>
             <Button Content="Тоже просто" Height="57" Background="Transparent"/>
