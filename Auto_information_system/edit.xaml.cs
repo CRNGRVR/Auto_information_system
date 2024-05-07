@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace Auto_information_system
 {
     /// <summary>
-    /// Логика взаимодействия для Window4.xaml
+    /// Логика взаимодействия для edit.xaml
     /// </summary>
-    public partial class Window4 : Window
+    public partial class edit : Window
     {
-        public Window4()
+        public edit()
         {
             InitializeComponent();
         }

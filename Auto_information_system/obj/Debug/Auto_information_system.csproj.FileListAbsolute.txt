@@ -7,3 +7,46 @@ C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj
 C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\App.g.cs
 C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system_MarkupCompile.cache
 C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system_MarkupCompile.lref
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.exe.config
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.exe
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.pdb
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auth.baml
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Registration.baml
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Tickets.baml
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Report.baml
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.g.resources
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.Properties.Resources.resources
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.GenerateResource.cache
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.exe
+C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.pdb
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.AssemblyReference.cache
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainWindow.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auth.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Registration.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\App.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system_MarkupCompile.cache
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system_MarkupCompile.lref
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.exe
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.pdb
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\add.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\edit.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\TicketsUI.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.exe.config
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.exe
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\bin\Debug\Auto_information_system.pdb
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainWindow.baml
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auth.baml
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Registration.baml
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\add.baml
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\edit.baml
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\TicketsUI.baml
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.g.resources
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.Properties.Resources.resources
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.GenerateResource.cache
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\Auto_information_system.csproj.CoreCompileInputs.cache
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainUI.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\ReportUI.g.cs
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\MainUI.baml
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\ReportUI.baml

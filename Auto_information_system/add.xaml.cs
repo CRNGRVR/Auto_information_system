@@ -15,18 +15,13 @@ using System.Windows.Shapes;
 namespace Auto_information_system
 {
     /// <summary>
-    /// Логика взаимодействия для Window3.xaml
+    /// Логика взаимодействия для add.xaml
     /// </summary>
-    public partial class Window3 : Window
+    public partial class add : Window
     {
-        public Window3()
+        public add()
         {
             InitializeComponent();
-        }
-
-        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
         }
     }
 }

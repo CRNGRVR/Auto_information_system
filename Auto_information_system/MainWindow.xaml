@@ -6,18 +6,18 @@
         xmlns:local="clr-namespace:Auto_information_system"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Name="gr2">
         <StackPanel Margin="0,0,657,0">
-            <Button Content="Главная" Height="57" Background="Transparent"/>
-            <Button Content="Заявки" Height="57" Background="Transparent"/>
-            <Button Content="Отчёты" Height="57" Background="Transparent"/>
+            <Button Content="Главная" Height="57" Background="Transparent" Click="Button_Click_1"/>
+            <Button Content="Заявки" Height="57" Background="Transparent" Click="Button_Click"/>
+            <Button Content="Отчёты" Height="57" Background="Transparent" Click="Button_Click_2"/>
             <Button Content="Не знаю" Height="57" Background="Transparent"/>
             <Button Content="Не придумал" Height="57" Background="Transparent"/>
             <Button Content="Тоже просто" Height="57" Background="Transparent"/>
             <Button Content="Хз" Height="57" Background="Transparent"/>
         </StackPanel>
         <StackPanel Margin="142,0,657,0" Background="Gray" Width="0.5"/>
-        <Label Content="Главная" HorizontalAlignment="Left" Margin="162,20,0,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold" Width="229"/>
-
+        
+        <Grid Name="gr1" Margin="148,0,0,0"/>
     </Grid>
 </Window>

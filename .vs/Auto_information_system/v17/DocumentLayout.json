@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|c:\\users\\sevad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\auto_information_system\\auto_information_system\\mainui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\mainui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|c:\\users\\sevad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\auto_information_system\\auto_information_system\\reportui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\reportui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\auto_information_system\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\auto_information_system\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|c:\\users\\sevad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\auto_information_system\\auto_information_system\\ticketsui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\ticketsui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\auto_information_system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|c:\\users\\sevad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\auto_information_system\\auto_information_system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\auto_information_system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|c:\\users\\sevad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\auto_information_system\\auto_information_system\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\add.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\auto_information_system\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|c:\\users\\sevad\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\auto_information_system\\auto_information_system\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\auto_information_system\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB85DB2-8623-4F33-B315-C55A81194CC6}|Auto_information_system\\Auto_information_system.csproj|solutionrelative:auto_information_system\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 167,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportUI.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\ReportUI.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\ReportUI.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\ReportUI.xaml",
+              "RelativeToolTip": "Auto_information_system\\ReportUI.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T07:12:05.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainUI.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\MainUI.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\MainUI.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\MainUI.xaml",
+              "RelativeToolTip": "Auto_information_system\\MainUI.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T07:10:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketsUI.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\TicketsUI.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\TicketsUI.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\TicketsUI.xaml",
+              "RelativeToolTip": "Auto_information_system\\TicketsUI.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T06:54:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\App.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\App.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\App.xaml",
+              "RelativeToolTip": "Auto_information_system\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T06:27:02.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Registration.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\Registration.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Registration.xaml",
+              "RelativeToolTip": "Auto_information_system\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T06:27:02.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auth.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Auth.xaml.cs",
+              "RelativeDocumentMoniker": "Auto_information_system\\Auth.xaml.cs",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Auth.xaml.cs",
+              "RelativeToolTip": "Auto_information_system\\Auth.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:27:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auth.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Auth.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\Auth.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Auth.xaml",
+              "RelativeToolTip": "Auto_information_system\\Auth.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T06:27:02.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\MainWindow.xaml",
+              "RelativeToolTip": "Auto_information_system\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T06:27:02.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "Auto_information_system\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\Registration.xaml.cs",
+              "RelativeToolTip": "Auto_information_system\\Registration.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:27:02.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Auto_information_system\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Auto_information_system\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:27:02.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "add.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\add.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\add.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\add.xaml",
+              "RelativeToolTip": "Auto_information_system\\add.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T06:38:39.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "edit.xaml",
+              "DocumentMoniker": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\edit.xaml",
+              "RelativeDocumentMoniker": "Auto_information_system\\edit.xaml",
+              "ToolTip": "C:\\Users\\sevad\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0434\u044D\\Auto_information_system\\Auto_information_system\\edit.xaml",
+              "RelativeToolTip": "Auto_information_system\\edit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T06:32:51.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

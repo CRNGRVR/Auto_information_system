@@ -24,5 +24,33 @@ namespace Auto_information_system
         {
             InitializeComponent();
         }
+
+        private void TicketsUI_Loaded(object sender, RoutedEventArgs e)
+        {
+            gr1.Children.Clear();
+            MainUI m = new MainUI();
+            gr1.Children.Add(m);
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            gr1.Children.Clear();
+            TicketsUI t = new TicketsUI();
+            gr1.Children.Add(t);
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            gr1.Children.Clear();
+            MainUI m = new MainUI();
+            gr1.Children.Add(m);
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            gr1.Children.Clear();
+            ReportUI r = new ReportUI();
+            gr1.Children.Add(r);
+        }
     }
 }

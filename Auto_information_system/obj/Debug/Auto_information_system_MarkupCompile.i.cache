@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\obj\Debug\
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\obj\Debug\
 Auto_information_system
 none
 false
 DEBUG;TRACE
-C:\Users\user\Documents\ДЭ\Auto_information_system\Auto_information_system\App.xaml
-5110876429
+C:\Users\sevad\OneDrive\Рабочий стол\дэ\Auto_information_system\Auto_information_system\App.xaml
+81592884597
 
-101034614327
-13-946294123
-MainWindow.xaml;Auth.xaml;Registration.xaml;Tickets.xaml;Report.xaml;
+13-234607810
+13-38814620
+add.xaml;edit.xaml;MainUI.xaml;MainWindow.xaml;Auth.xaml;Registration.xaml;ReportUI.xaml;TicketsUI.xaml;
 
-False
+True
 
