@@ -7,14 +7,18 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,10,10,102" AutoGenerateColumns="false" Name="detailsDG">
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,58,10,54" AutoGenerateColumns="false" Name="detailsDG">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding Path = id}"></DataGridTextColumn>
-                <DataGridTextColumn Header="login" Binding="{Binding Path = login}"></DataGridTextColumn>
-                <DataGridTextColumn Header="password" Binding="{Binding Path = password}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Заголовок" Binding="{Binding Path = title}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Path = status}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Идентификатор устройства" Binding="{Binding Path = hardware_id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Клиент" Binding="{Binding Path = client_id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Ответственный" Binding="{Binding Path = worker_id}"></DataGridTextColumn>
             </DataGrid.Columns>
         </DataGrid>
-        <Button Content="Редактировать" HorizontalAlignment="Left" Margin="125,353,0,0" VerticalAlignment="Top" Height="37" Width="110"/>
-        <Button Content="Добавить" HorizontalAlignment="Left" Margin="10,353,0,0" VerticalAlignment="Top" Height="37" Width="110"/>
+        <Button Content="Редактировать" HorizontalAlignment="Left" Margin="125,401,0,0" VerticalAlignment="Top" Height="37" Width="110"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="10,401,0,0" VerticalAlignment="Top" Height="37" Width="110"/>
+        <TextBox x:Name="tb" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209" Height="24" TextChanged="TextBox_TextChanged"/>
     </Grid>
 </UserControl>

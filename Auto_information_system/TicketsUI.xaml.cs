@@ -16,7 +16,6 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Configuration;
 
-
 using System.Data;
 
 namespace Auto_information_system
@@ -35,30 +34,22 @@ namespace Auto_information_system
         public TicketsUI()
         {
             InitializeComponent();
-            connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-            updateDB();
+            table = DB.update();
+            detailsDG.ItemsSource = table.DefaultView;
         }
 
-        void updateDB()
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            string sql = "SELECT * FROM Users";
-            table = new DataTable();
-            SqlConnection connectioin = null;
-            try
+            if (tb.Text == "")
             {
-                connectioin = new SqlConnection(connectionString);
-                SqlCommand command = new SqlCommand(sql, connectioin);
-                adapter = new SqlDataAdapter(command);
-                connectioin.Open();
-                adapter.Fill(table);
+                table = DB.update();
                 detailsDG.ItemsSource = table.DefaultView;
             }
-            catch (Exception ex)
+            else
             {
-                MessageBox.Show(ex.Message);
-            }
-            
-            detailsDG.SelectedItem = null;
+                table = DB.search(tb.Text);
+                detailsDG.ItemsSource = table.DefaultView;
+            } 
         }
     }
 }

@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\E1\Documents\Codes\Auto_information_system\obj\Debug\
+C:\Users\E1\Documents\Codes\Auto_information_system\obj\Release\
 Auto_information_system
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\E1\Documents\Codes\Auto_information_system\App.xaml
 81592884597
 
-14-1368053138
+131005136037
 14-1486485296
 add.xaml;edit.xaml;MainUI.xaml;MainWindow.xaml;Auth.xaml;Registration.xaml;ReportUI.xaml;TicketsUI.xaml;
 
