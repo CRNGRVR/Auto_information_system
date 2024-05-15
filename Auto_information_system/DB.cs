@@ -15,7 +15,7 @@ namespace Auto_information_system
     static class DB
     {
         static String connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
-      
+
         public static DataTable update()
         {
             SqlDataAdapter adapter = new SqlDataAdapter();

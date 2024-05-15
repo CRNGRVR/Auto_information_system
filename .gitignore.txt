@@ -1,1 +1,2 @@
-./.vs
+Auto_information_system/.vs
+Auto_information_system/App.config
